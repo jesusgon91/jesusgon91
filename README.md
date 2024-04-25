@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesusgon91
-- 👀 I’m interested in Data scientist
+- 👀 I’m interested in Data scientist, Data analyst, Data Wharehouse
 - 🌱 I’m currently learning couses of Data scientist with python
 - 💞️ I’m looking to collaborate on different people of data
 - 📫 How to reach me www.linkedin.com/in/jesusgazpurua 
